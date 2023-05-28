@@ -29,6 +29,9 @@ git clone https://github.com/beingfarina/London-Fire-Bridge
 - Build and evaluate predictive models using machine learning algorithms.Experiment with different features, algorithms, and hyperparameters to optimize the accuracy of response time predictions.
 
 - Visualize and present the results of your analysis using the provided visualization tools and dashboards. Create intuitive visual representations to communicate the insights gained from the emergency call data.
+## Detailed Analysis Description (Excerpt from Medium Blog)
+We have written a detailed analysis of the global disease trends project on Medium. Here is an excerpt from the blog that provides an overview of the analysis:
+https://medium.com/@beingfarina/analysis-of-emergency-calls-and-response-time-of-london-fire-brigade-tapping-the-power-of-data-c545adcd4dc0
 
 ## Contribution
 Contributions to this repository are highly encouraged! If you have any improvements, bug fixes, or additional features related to the analysis of emergency calls and response time, feel free to submit a pull request. Make sure to follow the repository's guidelines for contributions.
